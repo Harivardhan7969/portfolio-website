@@ -5,7 +5,7 @@ const ContactMeRight = () => {
   return (
     <div className="flex flex-col items-center justify-center gap-12">
       <img
-        src="../../public/images/email-image.png"
+        src="http://res.cloudinary.com/dgecg1uni/image/upload/v1743217611/dxltbdpubwuwh1b4s2ff.png"
         alt="email image"
         className="max-w-[300px]"
       />

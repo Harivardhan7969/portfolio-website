@@ -8,7 +8,7 @@ const projects = [
     name: "Vacation of Africa",
     year: "Mar2022",
     align: "right",
-    image: "../../public/images/website-img-1.jpg",
+    image: "http://res.cloudinary.com/dgecg1uni/image/upload/v1743217839/xbys2hjmjpxdzxi0vfgs.jpg",
     link: "#",
   },
   {
